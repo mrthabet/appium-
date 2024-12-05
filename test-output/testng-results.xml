@@ -2,20 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-05T00:15:09 EET" name="Default suite" finished-at="2024-12-05T00:15:52 EET" duration-ms="42187">
+  <suite started-at="2024-12-05T13:50:11 EET" name="Default suite" finished-at="2024-12-05T13:50:37 EET" duration-ms="25949">
     <groups>
     </groups>
-    <test started-at="2024-12-05T00:15:09 EET" name="Default test" finished-at="2024-12-05T00:15:52 EET" duration-ms="42187">
-      <class name="appium.TestMultiply">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:appium.TestMultiply@1f2586d6]" started-at="2024-12-05T00:15:10 EET" name="setUp" finished-at="2024-12-05T00:15:23 EET" duration-ms="13718" status="PASS">
+    <test started-at="2024-12-05T13:50:11 EET" name="Default test" finished-at="2024-12-05T13:50:37 EET" duration-ms="25949">
+      <class name="appium.waitclass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:appium.waitclass@385c9627]" started-at="2024-12-05T13:50:12 EET" name="setUp" finished-at="2024-12-05T13:50:27 EET" duration-ms="15842" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testMultiply()[pri:0, instance:appium.TestMultiply@1f2586d6]" started-at="2024-12-05T00:15:23 EET" name="testMultiply" finished-at="2024-12-05T00:15:52 EET" duration-ms="28392" status="PASS">
+        <test-method signature="testMultiply()[pri:0, instance:appium.waitclass@385c9627]" started-at="2024-12-05T13:50:27 EET" name="testMultiply" finished-at="2024-12-05T13:50:34 EET" duration-ms="6155" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMultiply -->
-      </class> <!-- appium.TestMultiply -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:appium.waitclass@385c9627]" started-at="2024-12-05T13:50:34 EET" name="tearDown" finished-at="2024-12-05T13:50:37 EET" duration-ms="3847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- appium.waitclass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
