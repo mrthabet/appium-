@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="appium.waitclass">
+      <class name="appium.TestMultiply">
         <methods>
           <include name="setUp"/>
           <include name="testMultiply"/>
-          <include name="tearDown"/>
         </methods>
-      </class> <!-- appium.waitclass -->
+      </class> <!-- appium.TestMultiply -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

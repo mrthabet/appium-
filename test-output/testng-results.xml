@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-05T13:50:11 EET" name="Default suite" finished-at="2024-12-05T13:50:37 EET" duration-ms="25949">
+  <suite started-at="2024-12-05T15:23:30 EET" name="Default suite" finished-at="2024-12-05T15:24:03 EET" duration-ms="33164">
     <groups>
     </groups>
-    <test started-at="2024-12-05T13:50:11 EET" name="Default test" finished-at="2024-12-05T13:50:37 EET" duration-ms="25949">
+    <test started-at="2024-12-05T15:23:30 EET" name="Default test" finished-at="2024-12-05T15:24:03 EET" duration-ms="33164">
       <class name="appium.waitclass">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:appium.waitclass@385c9627]" started-at="2024-12-05T13:50:12 EET" name="setUp" finished-at="2024-12-05T13:50:27 EET" duration-ms="15842" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:appium.waitclass@385c9627]" started-at="2024-12-05T15:23:30 EET" name="setUp" finished-at="2024-12-05T15:23:52 EET" duration-ms="21636" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testMultiply()[pri:0, instance:appium.waitclass@385c9627]" started-at="2024-12-05T13:50:27 EET" name="testMultiply" finished-at="2024-12-05T13:50:34 EET" duration-ms="6155" status="PASS">
+        <test-method signature="testMultiply()[pri:0, instance:appium.waitclass@385c9627]" started-at="2024-12-05T15:23:52 EET" name="testMultiply" finished-at="2024-12-05T15:23:58 EET" duration-ms="6594" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMultiply -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:appium.waitclass@385c9627]" started-at="2024-12-05T13:50:34 EET" name="tearDown" finished-at="2024-12-05T13:50:37 EET" duration-ms="3847" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:appium.waitclass@385c9627]" started-at="2024-12-05T15:23:59 EET" name="tearDown" finished-at="2024-12-05T15:24:03 EET" duration-ms="4782" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
